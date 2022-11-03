@@ -1,5 +1,5 @@
 {
-  "name": "aarcarv/laravel-couchdb",
+  "name": "rbewley4/laravel-couchdb",
   "description": "CouchDB database driver for Laravel 4 ",
   "keywords": ["laravel","couchdb","couch","database"],
   "authors": [
